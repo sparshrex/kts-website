@@ -11,11 +11,10 @@ function Project() {
         <div className="flex sm:mt-[-1.8rem]">
           <div className="w-[350px] sm:ml-[15%] ">
             <p className=" font-serif font-medium text-[1.5rem]">
-
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            deserunt voluptates nobis molestiae dicta, laboriosam commodisdfs slfjfs flsffs sflsf
-
-            
+              Take a tour through our digital gallery of accomplishments.
+              Witness the variety, the innovation, the creativity, and the depth
+              of our work. Every project holds a story, a challenge overcome,
+              and a goal achieved.
             </p>
           </div>
         </div>
@@ -36,8 +35,8 @@ function Project() {
         </div>
       </div>
 
-      <div className="ml-[-1rem] mt-[20%]">
-        <Footer/>
+      <div className="ml-[-1rem] mt-[20%] mb-[-1rem]">
+        <Footer />
       </div>
     </div>
   );

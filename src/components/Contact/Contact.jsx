@@ -5,7 +5,7 @@ import Footer from "../Foooter/Footer";
 
 function Contact() {
   return (
-    <div>
+    <div >
       <div className="box">
         <div className="box1">
           <p className="he">Contact Us.</p>
@@ -40,7 +40,7 @@ function Contact() {
         </button>
       </div>
 
-      <div className="ml-[-1rem] mb-[-1rem]">
+      <div className="ml-[-1rem] mb-[-1rem] mt-[4rem]">
         <Footer />
       </div>
     </div>

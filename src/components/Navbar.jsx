@@ -10,8 +10,8 @@ const navLinks = [
     url: "/",
   },
   {
-    display: "About",
-    url: "/About",
+    display: "Contact",
+    url: "/Contact",
   },
 
   {
